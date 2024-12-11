@@ -1,0 +1,11 @@
+# 스마트 조명 제어 시스템
+
+## 프로젝트 개요
+Arduino를 사용하여 간단한 스마트 조명 제어 시스템을 제작했습니다.  
+조도 센서(LDR)로 주변 밝기를 감지하고, 어두워지면 LED를 자동으로 켭니다.
+
+## 실행 방법
+1. 프로젝트 클론:
+   ```bash
+   git clone https://github.com/username/smart-light-control.git
+   cd smart-light-control
